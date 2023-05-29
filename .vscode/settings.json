@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\rogerslt\\OneDrive - Limestone DSB\\IC3S3U\\util\\util.jar"
+    ]
+}
